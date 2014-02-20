@@ -1,5 +1,7 @@
-site//bootstrap/compiled.php
-site//vendor
+site/app/config/app.php
+site/app/config/database.php
+site/bootstrap/compiled.php
+site/vendor
 site/composer.phar
 site/composer.lock
 site/.env.local.php
